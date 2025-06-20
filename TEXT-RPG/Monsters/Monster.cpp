@@ -4,12 +4,12 @@
 
 using namespace std;
 
-// °øÅë ·£´ı »ı¼º ÇÔ¼ö
-// ¸ó½ºÅÍ ½ºÆåÀ» Ä³¸¯ÅÍ ·¹º§¿¡ ºñ·ÊÇØ¼­ ·£´ıÇÏ°Ô »ı¼ºÇØ¾ßÇÏ±â ¶§¹®¿¡ ÇÊ¿ä
+// ê³µí†µ ëœë¤ ìƒì„± í•¨ìˆ˜
+// ëª¬ìŠ¤í„° ìŠ¤í™ì„ ìºë¦­í„° ë ˆë²¨ì— ë¹„ë¡€í•´ì„œ ëœë¤í•˜ê²Œ ìƒì„±í•´ì•¼í•˜ê¸° ë•Œë¬¸ì— í•„ìš”
 int getRandomInRange(int min, int max) {
-    static std::random_device rd;
-    static std::mt19937 gen(rd());                          // ³­¼ö »ı¼º±â
-    std::uniform_int_distribution<> dist(min, max);         // ±Õµî ºĞÆ÷
+    static random_device rd;
+    static mt19937 gen(rd());                          // ë‚œìˆ˜ ìƒì„±ê¸°
+    uniform_int_distribution<> dist(min, max);         // ê· ë“± ë¶„í¬
     return dist(gen);
 }
 
@@ -20,7 +20,7 @@ Goblin::Goblin(int level) {
     attack = getRandomInRange(level * 5, level * 10);
 }
 
-std::string Goblin::getName() const { return name; }
+string Goblin::getName() const { return name; }
 int Goblin::getHealth() const { return health; }
 int Goblin::getAttack() const { return attack; }
 
@@ -40,7 +40,7 @@ Orc::Orc(int level) {
     attack = getRandomInRange(level * 5, level * 10);
 }
 
-std::string Orc::getName() const { return name; }
+string Orc::getName() const { return name; }
 int Orc::getHealth() const { return health; }
 int Orc::getAttack() const { return attack; }
 
@@ -60,7 +60,7 @@ Troll::Troll(int level) {
     attack = getRandomInRange(level * 5, level * 10);
 }
 
-std::string Troll::getName() const { return name; }
+string Troll::getName() const { return name; }
 int Troll::getHealth() const { return health; }
 int Troll::getAttack() const { return attack; }
 
@@ -80,7 +80,7 @@ BossMonster::BossMonster(int level) {
     attack = getRandomInRange(level * 10, level * 15);
 }
 
-std::string BossMonster::getName() const { return name; }
+string BossMonster::getName() const { return name; }
 int BossMonster::getHealth() const { return health; }
 int BossMonster::getAttack() const { return attack; }
 
