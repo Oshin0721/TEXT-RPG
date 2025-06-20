@@ -1,5 +1,5 @@
-#ifndef ATTACKBOOST_H_
-#define ATTACKBOOST_H_
+#ifndef ITEM_ATTACKBOOST_H
+#define ITEM_ATTACKBOOST_H
 
 #include "Item.h"
 

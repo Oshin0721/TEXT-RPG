@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\code\\TEXT-RPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\HealthPotion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\item\\HealthPotion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\Attacckboost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\item\\Attacckboost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\HealthPotion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\item\\HealthPotion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\AttackBoost.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\HealthPotion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\item\\HealthPotion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\item\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -42,13 +46,26 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.h",
+              "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\Item.h",
+              "RelativeDocumentMoniker": "TEXT-RPG\\item\\Item.h",
+              "ToolTip": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\Item.h",
+              "RelativeToolTip": "TEXT-RPG\\item\\Item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-20T06:30:29.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AttackBoost.h",
               "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\AttackBoost.h",
               "RelativeDocumentMoniker": "TEXT-RPG\\item\\AttackBoost.h",
               "ToolTip": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\AttackBoost.h",
               "RelativeToolTip": "TEXT-RPG\\item\\AttackBoost.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-06-20T05:46:01.28Z",
               "EditorCaption": ""
@@ -61,27 +78,27 @@
               "RelativeDocumentMoniker": "TEXT-RPG\\item\\HealthPotion.h",
               "ToolTip": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\HealthPotion.h",
               "RelativeToolTip": "TEXT-RPG\\item\\HealthPotion.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-06-20T05:45:56.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Attacckboost.cpp",
               "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\Attacckboost.cpp",
               "RelativeDocumentMoniker": "TEXT-RPG\\item\\Attacckboost.cpp",
               "ToolTip": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\Attacckboost.cpp",
               "RelativeToolTip": "TEXT-RPG\\item\\Attacckboost.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-20T05:45:55.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HealthPotion.cpp",
               "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\HealthPotion.cpp",
               "RelativeDocumentMoniker": "TEXT-RPG\\item\\HealthPotion.cpp",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Monster.cpp",
               "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.cpp",
               "RelativeDocumentMoniker": "TEXT-RPG\\Monsters\\Monster.cpp",
@@ -102,12 +119,11 @@
               "RelativeToolTip": "TEXT-RPG\\Monsters\\Monster.cpp",
               "ViewState": "AgIAADsAAAAAAAAAAAAkwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-20T05:22:15.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T05:22:15.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Monster.h",
               "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.h",
               "RelativeDocumentMoniker": "TEXT-RPG\\Monsters\\Monster.h",
@@ -115,12 +131,11 @@
               "RelativeToolTip": "TEXT-RPG\\Monsters\\Monster.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-20T05:20:50.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T05:20:50.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "shop.h",
               "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\shop.h",
               "RelativeDocumentMoniker": "TEXT-RPG\\shop.h",
