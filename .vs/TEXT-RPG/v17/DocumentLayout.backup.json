@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\code\\TEXT-RPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4719738-18D6-4CF4-AF86-FFCC435C8A05}|TEXT-RPG\\TEXT-RPG.vcxproj|D:\\code\\TEXT-RPG\\TEXT-RPG\\TEXT-RPG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B4719738-18D6-4CF4-AF86-FFCC435C8A05}|TEXT-RPG\\TEXT-RPG.vcxproj|solutionrelative:TEXT-RPG\\TEXT-RPG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\Monsters\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\TEXT-RPG\\TEXT-RPG\\shop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\shop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\Monsters\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TEXT-RPG.cpp",
-              "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\TEXT-RPG.cpp",
-              "RelativeDocumentMoniker": "TEXT-RPG\\TEXT-RPG.cpp",
-              "ToolTip": "D:\\code\\TEXT-RPG\\TEXT-RPG\\TEXT-RPG.cpp",
-              "RelativeToolTip": "TEXT-RPG\\TEXT-RPG.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Monster.cpp",
+              "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.cpp",
+              "RelativeDocumentMoniker": "TEXT-RPG\\Monsters\\Monster.cpp",
+              "ToolTip": "D:\\code\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.cpp",
+              "RelativeToolTip": "TEXT-RPG\\Monsters\\Monster.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-19T10:36:29.805Z",
+              "WhenOpened": "2025-06-20T05:22:15.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monster.h",
+              "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.h",
+              "RelativeDocumentMoniker": "TEXT-RPG\\Monsters\\Monster.h",
+              "ToolTip": "D:\\code\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.h",
+              "RelativeToolTip": "TEXT-RPG\\Monsters\\Monster.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-20T05:20:50.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shop.h",
+              "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\shop.h",
+              "RelativeDocumentMoniker": "TEXT-RPG\\shop.h",
+              "ToolTip": "D:\\code\\TEXT-RPG\\TEXT-RPG\\shop.h",
+              "RelativeToolTip": "TEXT-RPG\\shop.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-20T05:20:45.219Z",
               "EditorCaption": ""
             }
           ]
