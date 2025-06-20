@@ -6,11 +6,11 @@ using namespace std;
 
 class Monster {                                     // Monster는 추상 클래스(모든 몬스터의 공통 기능)
 public:
-    virtual string getName() const = 0;        // 이름
+    virtual string getName() const = 0;             // 이름
     virtual int getHealth() const = 0;              // 체력
     virtual int getAttack() const = 0;              // 공격력
     virtual void takeDamage(int damage) = 0;        // 데미지 처리
-    // virtual Item* dropItem() = 0;                   // 드랍 아이템 반환
+    // virtual Item* dropItem() = 0;                // 드랍 아이템 반환
     virtual ~Monster() = default;                   // 다형성을 위한 가상 소멸자
 };
 
