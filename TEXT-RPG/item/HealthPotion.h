@@ -1,5 +1,5 @@
-#ifndef HEALTHPOTTION_H_
-#define HEALTHPOTTION_H_
+#ifndef ITEM_HEALTHPOTION_H
+#define ITEM_HEALTHPOTION_H
 
 #include "Item.h"
 
