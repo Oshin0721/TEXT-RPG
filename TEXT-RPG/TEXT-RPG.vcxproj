@@ -125,12 +125,17 @@
   <ItemGroup>
     <ClCompile Include="Attacckboost.cpp" />
     <ClCompile Include="HealthPotion.cpp" />
+    <ClCompile Include="shop\shop.cpp" />
     <ClCompile Include="TEXT-RPG.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="HealthPotion.h" />
     <ClInclude Include="Item.h" />
     <ClInclude Include="AttackBoost.h" />
+    <ClInclude Include="shop\shop.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include=".gitigonre" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
