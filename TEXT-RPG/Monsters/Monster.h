@@ -4,30 +4,30 @@
 
 using namespace std;
 
-class Monster {                                     // Monster´Â Ãß»ó Å¬·¡½º(¸ğµç ¸ó½ºÅÍÀÇ °øÅë ±â´É)
+class Monster {                                     // MonsterëŠ” ì¶”ìƒ í´ë˜ìŠ¤(ëª¨ë“  ëª¬ìŠ¤í„°ì˜ ê³µí†µ ê¸°ëŠ¥)
 public:
-    virtual std::string getName() const = 0;        // ÀÌ¸§
-    virtual int getHealth() const = 0;              // Ã¼·Â
-    virtual int getAttack() const = 0;              // °ø°İ·Â
-    virtual void takeDamage(int damage) = 0;        // µ¥¹ÌÁö Ã³¸®
-    // virtual Item* dropItem() = 0;                   // µå¶ø ¾ÆÀÌÅÛ ¹İÈ¯
-    virtual ~Monster() = default;                   // ´ÙÇü¼ºÀ» À§ÇÑ °¡»ó ¼Ò¸êÀÚ
+    virtual string getName() const = 0;        // ì´ë¦„
+    virtual int getHealth() const = 0;              // ì²´ë ¥
+    virtual int getAttack() const = 0;              // ê³µê²©ë ¥
+    virtual void takeDamage(int damage) = 0;        // ë°ë¯¸ì§€ ì²˜ë¦¬
+    // virtual Item* dropItem() = 0;                   // ë“œë ì•„ì´í…œ ë°˜í™˜
+    virtual ~Monster() = default;                   // ë‹¤í˜•ì„±ì„ ìœ„í•œ ê°€ìƒ ì†Œë©¸ì
 };
 
-// Goblin, Orc, Troll, BossMonster Å¬·¡½º ¼±¾ğºÎ
-// °¢ Å¬·¡½º´Â Monster¸¦ »ó¼ÓÇÏ¸ç µ¿ÀÏÇÑ ±¸Á¶¸¦ °¡Áü
-// ·¹º§ ±â¹İÀ¸·Î »ı¼ºµÇ±â ¶§¹®¿¡ »ı¼ºÀÚ¿¡ int level ÀÖÀ½
+// Goblin, Orc, Troll, BossMonster í´ë˜ìŠ¤ ì„ ì–¸ë¶€
+// ê° í´ë˜ìŠ¤ëŠ” Monsterë¥¼ ìƒì†í•˜ë©° ë™ì¼í•œ êµ¬ì¡°ë¥¼ ê°€ì§
+// ë ˆë²¨ ê¸°ë°˜ìœ¼ë¡œ ìƒì„±ë˜ê¸° ë•Œë¬¸ì— ìƒì„±ìì— int level ìˆìŒ
 class Goblin : public Monster {
 public:
     Goblin(int level);
-    std::string getName() const override;
+    string getName() const override;
     int getHealth() const override;
     int getAttack() const override;
     void takeDamage(int damage) override;
     // Item* dropItem() override;
 
 private:
-    std::string name;
+    string name;
     int health;
     int attack;
 };
@@ -35,14 +35,14 @@ private:
 class Orc : public Monster {
 public:
     Orc(int level);
-    std::string getName() const override;
+    string getName() const override;
     int getHealth() const override;
     int getAttack() const override;
     void takeDamage(int damage) override;
     // Item* dropItem() override;
 
 private:
-    std::string name;
+    string name;
     int health;
     int attack;
 };
@@ -50,14 +50,14 @@ private:
 class Troll : public Monster {
 public:
     Troll(int level);
-    std::string getName() const override;
+    string getName() const override;
     int getHealth() const override;
     int getAttack() const override;
     void takeDamage(int damage) override;
     // Item* dropItem() override;
 
 private:
-    std::string name;
+    string name;
     int health;
     int attack;
 };
@@ -65,14 +65,14 @@ private:
 class BossMonster : public Monster {
 public:
     BossMonster(int level);
-    std::string getName() const override;
+    string getName() const override;
     int getHealth() const override;
     int getAttack() const override;
     void takeDamage(int damage) override;
     // Item* dropItem() override;
 
 private:
-    std::string name;
+    string name;
     int health;
     int attack;
 };
