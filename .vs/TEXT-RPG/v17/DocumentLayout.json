@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\code\\TEXT-RPG\\",
+  "WorkspaceRootPath": "C:\\Documents\\GitHub\\TEXT-RPG\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\Attacckboost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\item\\Attacckboost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -28,10 +29,33 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+=======
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\Monsters\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\TEXT-RPG\\TEXT-RPG\\shop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\Monsters\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\item\\HealthPotion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\item\\HealthPotion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\item\\Attacckboost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\item\\Attacckboost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\item\\AttackBoost.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\item\\AttackBoost.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\item\\HealthPotion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\item\\HealthPotion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\shop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXT-RPG\\shop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -42,11 +66,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
+<<<<<<< Updated upstream
               "Title": "Item.h",
               "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\Item.h",
               "RelativeDocumentMoniker": "TEXT-RPG\\item\\Item.h",
@@ -60,19 +85,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+=======
+>>>>>>> Stashed changes
               "Title": "AttackBoost.h",
-              "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\AttackBoost.h",
+              "DocumentMoniker": "C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\item\\AttackBoost.h",
               "RelativeDocumentMoniker": "TEXT-RPG\\item\\AttackBoost.h",
-              "ToolTip": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\AttackBoost.h",
+              "ToolTip": "C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\item\\AttackBoost.h",
               "RelativeToolTip": "TEXT-RPG\\item\\AttackBoost.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-20T05:46:01.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T05:46:01.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthPotion.h",
+              "DocumentMoniker": "C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\item\\HealthPotion.h",
+              "RelativeDocumentMoniker": "TEXT-RPG\\item\\HealthPotion.h",
+              "ToolTip": "C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\item\\HealthPotion.h",
+              "RelativeToolTip": "TEXT-RPG\\item\\HealthPotion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-20T05:45:56.409Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< Updated upstream
               "Title": "HealthPotion.h",
               "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\HealthPotion.h",
               "RelativeDocumentMoniker": "TEXT-RPG\\item\\HealthPotion.h",
@@ -86,23 +125,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+=======
+>>>>>>> Stashed changes
               "Title": "Attacckboost.cpp",
-              "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\Attacckboost.cpp",
+              "DocumentMoniker": "C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\item\\Attacckboost.cpp",
               "RelativeDocumentMoniker": "TEXT-RPG\\item\\Attacckboost.cpp",
-              "ToolTip": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\Attacckboost.cpp",
+              "ToolTip": "C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\item\\Attacckboost.cpp",
               "RelativeToolTip": "TEXT-RPG\\item\\Attacckboost.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-20T05:45:55.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T05:45:55.192Z"
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
+=======
+              "DocumentIndex": 2,
+>>>>>>> Stashed changes
               "Title": "HealthPotion.cpp",
-              "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\HealthPotion.cpp",
+              "DocumentMoniker": "C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\item\\HealthPotion.cpp",
               "RelativeDocumentMoniker": "TEXT-RPG\\item\\HealthPotion.cpp",
-              "ToolTip": "D:\\code\\TEXT-RPG\\TEXT-RPG\\item\\HealthPotion.cpp",
+              "ToolTip": "C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\item\\HealthPotion.cpp",
               "RelativeToolTip": "TEXT-RPG\\item\\HealthPotion.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -111,11 +155,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 5,
+=======
+              "DocumentIndex": 1,
+>>>>>>> Stashed changes
               "Title": "Monster.cpp",
-              "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.cpp",
+              "DocumentMoniker": "C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.cpp",
               "RelativeDocumentMoniker": "TEXT-RPG\\Monsters\\Monster.cpp",
-              "ToolTip": "D:\\code\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.cpp",
+              "ToolTip": "C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.cpp",
               "RelativeToolTip": "TEXT-RPG\\Monsters\\Monster.cpp",
               "ViewState": "AgIAADsAAAAAAAAAAAAkwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -123,13 +171,17 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 6,
+=======
+              "DocumentIndex": 0,
+>>>>>>> Stashed changes
               "Title": "Monster.h",
-              "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.h",
+              "DocumentMoniker": "C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.h",
               "RelativeDocumentMoniker": "TEXT-RPG\\Monsters\\Monster.h",
-              "ToolTip": "D:\\code\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.h",
+              "ToolTip": "C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\Monsters\\Monster.h",
               "RelativeToolTip": "TEXT-RPG\\Monsters\\Monster.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-06-20T05:20:50.361Z"
             },
@@ -137,9 +189,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "shop.h",
-              "DocumentMoniker": "D:\\code\\TEXT-RPG\\TEXT-RPG\\shop.h",
+              "DocumentMoniker": "C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\shop.h",
               "RelativeDocumentMoniker": "TEXT-RPG\\shop.h",
-              "ToolTip": "D:\\code\\TEXT-RPG\\TEXT-RPG\\shop.h",
+              "ToolTip": "C:\\Documents\\GitHub\\TEXT-RPG\\TEXT-RPG\\shop.h",
               "RelativeToolTip": "TEXT-RPG\\shop.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
